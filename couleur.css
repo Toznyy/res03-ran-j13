@@ -56,5 +56,9 @@
     background-color: #956CAF;
 }
 
+body {
+    overflow-x : hidden;
+    overflow-y : hidden;
+}
 
 
